@@ -1,7 +1,7 @@
-num=char(input("enter yourletter")
+num=char(input("enter your letter")
 if (num=a,e,i,o,u):
      print("your input is vowel")
 elif(num=char):
-     print("your input is not a vowel")
+     print("your input is constant")
  else:
-     print("your input is number")
+     print("your input is invalid")
